@@ -1,4 +1,4 @@
-# humanize-writing-skill
+# humanize-writing-skill【陈叶PPT设计开发】
 
 > **去 AI 味，注入人味。**  
 > 将 AI 生成的机械文本转化为有温度、有场景、有人类瑕疵的高质量内容。  
@@ -29,7 +29,7 @@
 
 ### 前置要求
 
-- 已安装 [Open Claw](https://github.com/openclaw) 或兼容的 AI 技能系统（支持Copaw）
+- 已安装 [Open Claw](https://github.com/openclaw) 或兼容的 AI 技能系统（支持阿里的Copaw）
 - 支持中文语境
 
 ### 安装
