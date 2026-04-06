@@ -197,6 +197,7 @@ humanize-writing-skill/
 - 灵感来源：[Grammarly AI Humanizer](https://www.grammarly.com/ai-humanizer)
 - 实战案例：《许昌双陈记：龙虾逆袭 2026》
 - 支持平台：[Open Claw](https://github.com/openclaw)
+- 支持平台：[Copaw](https://copaw.agentscope.io)
 
 ---
 
